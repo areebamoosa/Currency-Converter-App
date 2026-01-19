@@ -19,3 +19,5 @@ The app allows users to convert amounts from one currency to another by selectin
 ## Note
 
 - Built for desktop — responsiveness not included.
+
+### Live Demo: https://areebamoosa.github.io/Currency-Converter-App/
